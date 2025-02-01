@@ -2,8 +2,8 @@
 Простой чат-бот на Python
 
 ![изображение](https://github.com/user-attachments/assets/fb233eaf-91ba-46f1-ba41-325872319165)
+![408792098-9f41cdc9-4d0d-4ea6-a617-3f801b77d0f6](https://github.com/user-attachments/assets/5912f9bd-abd3-4b53-b6b9-7ff792e51c1e)
 
-![408792252-bd81e857-f34b-4898-aa39-84f5609aee9a](https://github.com/user-attachments/assets/31153453-f686-4049-b98e-14dcb4287669)
 
 
 # ВНИМАНИЕ
